@@ -1,4 +1,3 @@
-![Kafka Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka_wordtype.svg)
 # Kafka Project
 
 Kafka is a tool that helps handle large amounts of data by efficiently sending and receiving messages. It uses a distribution strategy to manage data flow.
@@ -47,6 +46,3 @@ The Kafka architecture and workflow are visually represented in the project.
    ```sh
    mvn spring-boot:run
    ```
-4. Open `chart.html` in your browser to visualize the Kafka flow.
-
-🚀 Happy Coding!
